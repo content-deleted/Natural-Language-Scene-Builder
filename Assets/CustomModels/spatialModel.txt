@@ -1,0 +1,196 @@
+lies	0
+to	0
+the	0
+left	left
+of	0
+the	0
+
+is	0
+to	0
+the	0
+left	left
+of	0
+
+is	0
+not	inverse
+to	0
+the	0
+left	left
+of	0
+
+lies	0
+to	0
+the	0
+right	right
+of	0
+the	0
+
+is	0
+to	0
+the	0
+right	right
+of	0
+
+is	0
+not	inverse
+to	0
+the	0
+left	right
+of	0
+
+lies	0
+in	0
+front	forward
+of	0
+the	0
+
+is	0
+in	0
+front	forward
+of	0
+
+is	0
+not	inverse
+in	0
+front	forward
+of	0
+
+lies	0
+behind	backward
+the	0
+
+is	0
+behind	backward
+
+is	0
+not	inverse
+behind	backward
+
+is	0
+far	0
+behind	0
+
+is	0
+far	0
+not	inverse
+behind	backward
+
+is	0
+ahead	forward
+of	0
+the	0
+
+is	0
+ahead	forward
+
+is	0
+above	up
+
+is	0
+below	down
+
+is	0
+not	inverse
+above	up
+
+is	0
+not	inverse
+below	down
+
+isnt	inverse
+below	down
+
+isn't	inverse
+below	down
+
+isnt	inverse
+above	up
+
+isn't	inverse
+above	up
+
+isn't	inverse
+in	0
+front	forward
+of	0
+
+isnt	inverse
+in	0
+front	forward
+of	0
+
+at	0
+the	0
+front	forward
+of	0
+
+is	0
+to	0
+the	0
+right	right
+of	0
+
+is	0
+to	0
+the	0
+left	left
+of	0
+
+is	0
+over	up
+the	0
+
+is	0
+over	up
+
+to	0
+the	0
+right	right
+
+to	0
+the	0
+left	left
+
+past	forward
+the	0
+
+before	behind
+the	0
+
+is	0
+on	up
+
+is	0
+in	up
+
+is	0
+on	up
+the	0
+
+is	0
+inside	up
+
+is	0
+inside	up
+the	0
+
+is	0
+ontop	up
+of	0
+the	0
+
+
+is	0
+on	up
+top	up
+of	0
+the	0
+
+is	0
+on	up
+top	up
+of	0
+
+is	0
+inside	up
+of	0
